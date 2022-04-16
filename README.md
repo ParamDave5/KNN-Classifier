@@ -10,7 +10,10 @@ The file question1.py contains the code for the problem 1.
 
 To  just run the code for probmlem 1 
 
-'''python question1.py'''
+```
+python question1.py
+```
+
 
 ## Problem 2:
 The file question2.py contains the code for the problem 2.
