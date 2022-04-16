@@ -11,7 +11,7 @@ The file question1.py contains the code for the problem 1.
 To  just run the code for probmlem 1 
 
 ```
-python question1.py
+python3 question1.py
 ```
 
 
@@ -22,12 +22,20 @@ The file question2.py contains the code for the problem 2.
 1. The images Q2imageA.png, Q2imageB.png and the file question2.py must be in the same directory.
 
 To  just run the code for probmlem 2
+
+```
 python question2.py 
+```
+
 ## Problem 3:
 The file question3.py contains the code for the problem 3.
 
 To  just run the code for probmlem 3
+
+```
 python question3.py 
+```
+
 ## Problem 4:
 The file question4.py contains the code for the problem 4.
 
@@ -35,4 +43,7 @@ The file question4.py contains the code for the problem 4.
 1. The image Q4image.png and the file question4.py must be in the same directory.
 
 To  just run the code for probmlem 4
+
+```
 python question4.py 
+```
